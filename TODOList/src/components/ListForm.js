@@ -22,7 +22,7 @@ const ListForm = (props) => {
   return (
     <div className="listform">
       <form onSubmit={submitHandler}>
-        <label className="listform-label">Enter List Item:</label>
+        <label className="listform-label">Rahul girl Friend List:</label>
         <input type="text" value={taskName} onChange={taskChangeHandler}></input>
         <button className=" listform-button" type="submit">
           Add To List
