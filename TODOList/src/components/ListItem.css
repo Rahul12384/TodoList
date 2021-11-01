@@ -1,0 +1,12 @@
+.list{
+    display: flex;
+    background-color: white;
+    margin: 0.5rem;
+    border-radius: 6px;
+    /*align-items: center;*/
+    justify-content: center;
+    color: goldenrod;
+    box-shadow: 2px 2px burlywood;
+    border: 1px solid;
+
+}

@@ -1,0 +1,13 @@
+.listform-label {
+  padding-right: 30px;
+}
+
+.listform{
+    display: flex;
+
+}
+
+.listform-button{
+  float: flex-end;
+  margin-left: 30px;
+}
